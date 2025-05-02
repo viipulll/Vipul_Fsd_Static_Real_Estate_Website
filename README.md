@@ -19,7 +19,7 @@ This is a static real estate website built using **React** and **Tailwind CSS**,
 
 ## 🎥 Video Explanation
 
-👉 **[Watch Full Project Demo Here](https://your-video-link.com)**  
+👉 **[Watch Full Project Demo Here](https://drive.google.com/file/d/1pejd5OF0VTmQ8LimWtmMZMmXPoeV0rT1/view?usp=sharing)**  
 *Check out our walkthrough video to see the features in action!*
 
 ---
@@ -49,11 +49,11 @@ Follow these steps to run the project locally:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/your-username/real-estate-solutions.git
+git clone https://github.com/viipulll/real-estate-solutions.git
 cd real-estate-solutions
 
 # Step 2: Install dependencies
 npm install
 
 # Step 3: Start the development server
-npm start
+npm run dev
